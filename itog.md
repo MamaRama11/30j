@@ -79,4 +79,4 @@ git branch -M main
 git push -u origin main позволяет отправить локальный репозиторий на сервер
 
 
-git
+git hallo
